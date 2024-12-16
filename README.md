@@ -1,3 +1,4 @@
 # vijay-
-this is my first github repository
-author - vijay sharma
+this is my first github Repository.
+<br>
+Author - vijay sharma
